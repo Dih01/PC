@@ -1,11 +1,12 @@
 body {
-    background: #9ae6e2
+    background: #000000
 }
+
 #banner 
 p {
     text-align: center;
 }
 
 em strong {
-    color: #00ff40;
+    color: #42d166;
 }
